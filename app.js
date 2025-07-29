@@ -35,11 +35,18 @@ function sortearAmigo() {
 
     let amigoElegido = parseInt(Math.floor(Math.random()*numeroAmigos));
 
-   limpiarCaja();
+   if(amigos.length >0) {
+    limpiarCaja();
 
-   document.getElementById("resultado").innerHTML = `El amigo secreto sorteado es ${amigos[amigoElegido]}`;
+    document.getElementById("resultado").innerHTML = `El amigo secreto sorteado es ${amigos[amigoElegido]}`;
 
-   amigos= [];
+    amigos= [];
+
+   } else  {
+    document.getElementById("resultado").innerHTML=""
+    alert("Inserte los nombres primero");
+   }
+    
 }
     
    

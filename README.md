@@ -24,11 +24,15 @@ Finalmente al darle click al boton "Sortear Amigo", se seleccionara un nombre de
  ## :hammer:Funcionalidades del proyecto
  
 - `agregarAmigo`: Al ingresar el nombre de una persona, este se insertará dentro de un array el cual se mostrará en forma de lista mientras se van agregando más nombres.
-- `listaFila`: Crea los elementos dentro del array,donde se ingresan los nombres, en elementos "li" para poder mostrarse en lista. 
-- `limpiarCaja`: Deja en blanco las casillas al insertar un nombre nuevo, evita la duplicidad de nombres al generar la lista y deja en blanco la casilla del resultado al realizar un nuevo sorteo
+  
+- `listaFila`: Crea los elementos dentro del array,donde se ingresan los nombres, en elementos "li" para poder mostrarse en lista.
+ 
+- `limpiarCaja`: Deja en blanco las casillas al insertar un nombre nuevo, evita la duplicidad de nombres al generar la lista y deja en blanco la casilla del resultado al realizar un nuevo sorteo.
+  
 - `sortearAmigo`: Selecciona un nombre aleatorio de la lista insertada, y luego lo muestra a traves de un mensaje en la pantalla.
 
  ## :white_check_mark:Tecnologías utilizadas
+ 
  - Javascript
 
 ## Autores

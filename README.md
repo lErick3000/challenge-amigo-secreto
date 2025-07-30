@@ -9,11 +9,11 @@
 ## Descripción del proyecto
 
 <p align="justify">
-Primer Challenge Alura, en el cual se creó un juego denomidado "Amigo Secreto".
+Primer Challenge Alura, en el cuál se creó un juego denomidado "Amigo Secreto".
 
-Este juego consiste en insertar nombres de personas a traves del boton "Añadir", el cual generara una lista de todos los nombre que se vayan insertando. 
+Este juego consiste en insertar nombres de personas a través del boton "Añadir", el cual generará una lista de todos los nombres que se vayan insertando. 
 
-Finalmente al darle click al boton "Sortear Amigo", se seleccionara un nombre de manera aleatoria de la lista generada. 
+Finalmente al darle click al botón "Sortear Amigo", se seleccionará un nombre de manera aleatoria de la lista generada. 
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Finalmente al darle click al boton "Sortear Amigo", se seleccionara un nombre de
  
 - `agregarAmigo`: Al ingresar el nombre de una persona, este se insertará dentro de un array el cual se mostrará en forma de lista mientras se van agregando más nombres.
   
-- `listaFila`: Crea los elementos dentro del array,donde se ingresan los nombres, en elementos "li" para poder mostrarse en lista.
+- `listaFila`: Crea los elementos dentro del array, donde se ingresan los nombres, en elementos "li", para poder mostrarse en lista.
  
 - `limpiarCaja`: Deja en blanco las casillas al insertar un nombre nuevo, evita la duplicidad de nombres al generar la lista y deja en blanco la casilla del resultado al realizar un nuevo sorteo.
   

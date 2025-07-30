@@ -33,7 +33,7 @@ Finalmente al darle click al boton "Sortear Amigo", se seleccionara un nombre de
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Erick Honorio</sub>](https://github.com/lErick3000) |  
+| [<img src="https://github.com/user-attachments/assets/170d1b9d-3728-4fdd-a7b5-e5dda810171b" width=115><br><sub>Erick Honorio</sub>](https://github.com/lErick3000) |  
 | :---: | 
 
 
